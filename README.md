@@ -1,3 +1,3 @@
 # ansible
 
-Silly little statement.
+Ansible configuration for desktops and server.
